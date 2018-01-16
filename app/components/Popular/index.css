@@ -1,0 +1,11 @@
+.grid {
+  display: flex
+}
+
+.game-item {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
